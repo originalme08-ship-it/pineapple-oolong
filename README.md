@@ -35,3 +35,7 @@ pineapple-oolong/
 ```text
 file:///pineapple-oolong/index.html
 ```
+
+
+### Превью
+<img width="1215" height="698" alt="image" src="https://github.com/user-attachments/assets/5bfa4249-b8d8-4349-8744-c538f4ee53f9" />
